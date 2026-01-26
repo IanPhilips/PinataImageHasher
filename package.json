@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "ipfs": "^0.39.0",
+    "ipfs": "^0.66.1",
     "push-dir": "^0.4.1",
     "quasar": "^1.0.0"
   },
